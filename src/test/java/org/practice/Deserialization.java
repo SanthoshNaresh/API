@@ -6,10 +6,11 @@ import java.io.IOException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 
-
-
-
 public class Deserialization {
+	
+	public void git() {
+		System.out.println("Sample");
+	}
 
 	public static void main(String[] args) throws IOException {
 		
@@ -28,6 +29,8 @@ public class Deserialization {
     System.out.println(city);
     System.out.println(country);
     System.out.println(state);
+    System.out.println(state +"GitHUb");
+    System.out.println(state +"GitHUb");
     
     
     
