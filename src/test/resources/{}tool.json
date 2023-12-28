@@ -1,0 +1,16 @@
+{
+
+  "name": "YazhiniNareshKumar",
+  "age": 11,
+  "Status": true,
+  "address":{
+          "state": "Tamil Nadu",
+          "country": "India",
+          "city": "Avadi"
+          },
+  "courses": [
+             "Java",
+             "Python",
+             "Selenium"
+             ]
+ }                  
